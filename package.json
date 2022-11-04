@@ -5,8 +5,7 @@
   "main": "serviceWorker.js",
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "ng build --configuration=production"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,7 @@
   },
   "homepage": "https://github.com/lilymajani/tp-workshop#readme",
   "engines": {
-    "node": "14.16.1",
-    "npm": "6.14.12"
+    "node": "14.16.1"
   },
   "dependencies": {
     "express": "^4.18.2"
