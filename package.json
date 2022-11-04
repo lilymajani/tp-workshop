@@ -1,0 +1,22 @@
+{
+  "name": "tp-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serviceWorker.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heroku-postbuild": "ng build --configuration=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilymajani/tp-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilymajani/tp-workshop/issues"
+  },
+  "homepage": "https://github.com/lilymajani/tp-workshop#readme",
+  "engines": { "node": "14.16.1", "npm": "6.14.12"}
+}
