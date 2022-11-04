@@ -18,5 +18,11 @@
     "url": "https://github.com/lilymajani/tp-workshop/issues"
   },
   "homepage": "https://github.com/lilymajani/tp-workshop#readme",
-  "engines": { "node": "14.16.1", "npm": "6.14.12"}
+  "engines": {
+    "node": "14.16.1",
+    "npm": "6.14.12"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
